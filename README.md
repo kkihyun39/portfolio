@@ -1,4 +1,4 @@
-# 한정수 포트폴리오
+# 김기현 포트폴리오
 >캐치 프레이즈
 
 </br>
@@ -9,9 +9,8 @@
 </br>
 
 ## :pushpin: Contact
-- 이메일: rhep0828@gmail.com
-- 블로그: https://ryan-han.com
-- 깃헙: https://github.com/integerous
+- 이메일: kkihyun39@gmail.com
+- 깃헙: https://github.com/kkihyun39
 
 </br>
 
