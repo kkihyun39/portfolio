@@ -27,8 +27,8 @@ Java와 Spring을 공부하는 개발자입니다.
 ---
 
 ### 2. [스마트 비닐하우스](https://github.com/kkihyun39/smart-GreenHouse)
->C와 arduino를 이용한 비닐하우스 조작  (졸업 작품)  
->개발 기간: 2018.3.1 ~ 2018.9.1  
+>C와 arduino를 이용한 비닐하우스 관리 (졸업 작품)  
+>개발 기간: 2018.3 ~ 2018.11  
 >  
 >기술 스택:  
 >C / arduino / ethernet shield / html    
