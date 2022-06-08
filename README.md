@@ -16,13 +16,13 @@ Java와 Spring을 공부하는 개발자입니다.
 </br>
 
 ## :pushpin: Projects
-### 1. [게시판 서비스](https://github.com/kkihyun39/linktest)
+### 1. [게시판 서비스](https://github.com/kkihyun39/board-service)
 >Java와 Spring Boot를 이용한 게시판 서비스  (개인 프로젝트)  
 >개발 기간: 2022.4.1 ~ 2022.5.1  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / H2 / AWS    
->[프로젝트 상세 설명](https://github.com/kkihyun39/linktest) 참고
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / H2     
+>[프로젝트 상세 설명](https://github.com/kkihyun39/board-service) 참고
 
 ---
 
