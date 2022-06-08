@@ -1,5 +1,5 @@
 # 김기현 포트폴리오
->캐치 프레이즈
+>백엔드 개발자
 
 </br>
 
@@ -27,24 +27,13 @@
 
 ---
 
-### 2. [두 번째 프로젝트]()
->두 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2020.7.18 ~ 2020.11.5  
+### 2. [게시판 서비스](https://github.com/kkihyun39/linktest)
+>Java와 Spring Boot를 이용한 게시판 서비스  (개인 프로젝트)  
+>개발 기간: 2022.4.1 ~ 2022.5.1  
 >  
 >기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
+>Java 8 / Spring Boot / Gradle / Spring Data JPA / H2    
+>[프로젝트 상세 설명](https://github.com/kkihyun39/linktest) 참고
 
 ---
 
-### 3. [세 번째 프로젝트]()
->세 번째 프로젝트 간략 소개  (개인 프로젝트)  
->개발 기간: 2018.1.18 ~ 2018.4.5  
->  
->기술 스택:  
->Java 8 / Spring Boot / Gradle / Spring Data JPA / QueryDSL  
->H2 / MySQL / Spring Security / Jsoup / Vue.js / Element U  
->  
->[프로젝트 상세 설명](https://github.com/Integerous/goQuality) 참고
