@@ -4,7 +4,7 @@
 </br>
 
 ## :pushpin: 자기소개
-Java와 Spring을 공부하는 개발자입니다.
+Java와 Spring을 공부하는 개발자입니다. 
 
 </br>
 
